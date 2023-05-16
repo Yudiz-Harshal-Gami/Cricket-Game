@@ -4,7 +4,7 @@ window.addEventListener('load', function () {
 	game = new Phaser.Game({
 		width: 1920,
 		height: 1080,
-		type: Phaser.AUTO,
+		type: Phaser.CANVAS,
 		transparent: true,
 		parent: 'game-division',
 		scale: {
