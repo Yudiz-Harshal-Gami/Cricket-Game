@@ -1,0 +1,362 @@
+{
+    "anims": [
+        {
+            "key": "frontShot",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "idlePosition",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "rightShot",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player1",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player1",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player1",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player1",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player1",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player1",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player1",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player1",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "leftShot",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player3",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player3",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player3",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player3",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player3",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player3",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "player3",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "umpire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "umpire-inital",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "umpireOut",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "umpire-out",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "umpireWide",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "umpire-wide",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "bowler",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bowler-54",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-55",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-13",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-16",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-19",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-22",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-25",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-28",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-29",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-30",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-31",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-34",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-37",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-39",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-41",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-43",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-45",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bowler-47",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "keeper-sit",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "keeper-2",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "keeper",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "keeper-1",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,371 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/fielder/1.png",
+                "type": "image",
+                "key": "1"
+            },
+            {
+                "url": "assets/images/fielder/10.png",
+                "type": "image",
+                "key": "10"
+            },
+            {
+                "url": "assets/images/fielder/11.png",
+                "type": "image",
+                "key": "11"
+            },
+            {
+                "url": "assets/images/fielder/12.png",
+                "type": "image",
+                "key": "12"
+            },
+            {
+                "url": "assets/images/fielder/13.png",
+                "type": "image",
+                "key": "13"
+            },
+            {
+                "url": "assets/images/fielder/14.png",
+                "type": "image",
+                "key": "14"
+            },
+            {
+                "url": "assets/images/fielder/15.png",
+                "type": "image",
+                "key": "15"
+            },
+            {
+                "url": "assets/images/fielder/2.png",
+                "type": "image",
+                "key": "2"
+            },
+            {
+                "url": "assets/images/fielder/3.png",
+                "type": "image",
+                "key": "3"
+            },
+            {
+                "url": "assets/images/fielder/4.png",
+                "type": "image",
+                "key": "4"
+            },
+            {
+                "url": "assets/images/fielder/5.png",
+                "type": "image",
+                "key": "5"
+            },
+            {
+                "url": "assets/images/fielder/6.png",
+                "type": "image",
+                "key": "6"
+            },
+            {
+                "url": "assets/images/fielder/7.png",
+                "type": "image",
+                "key": "7"
+            },
+            {
+                "url": "assets/images/fielder/8.png",
+                "type": "image",
+                "key": "8"
+            },
+            {
+                "url": "assets/images/fielder/9.png",
+                "type": "image",
+                "key": "9"
+            },
+            {
+                "url": "assets/images/ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/images/bat.png",
+                "type": "image",
+                "key": "bat"
+            },
+            {
+                "url": "assets/images/bg.png",
+                "type": "image",
+                "key": "bg"
+            },
+            {
+                "url": "assets/images/bowler/bowler-1.png",
+                "type": "image",
+                "key": "bowler-1"
+            },
+            {
+                "url": "assets/images/bowler/bowler-13.png",
+                "type": "image",
+                "key": "bowler-13"
+            },
+            {
+                "url": "assets/images/bowler/bowler-16.png",
+                "type": "image",
+                "key": "bowler-16"
+            },
+            {
+                "url": "assets/images/bowler/bowler-19.png",
+                "type": "image",
+                "key": "bowler-19"
+            },
+            {
+                "url": "assets/images/bowler/bowler-22.png",
+                "type": "image",
+                "key": "bowler-22"
+            },
+            {
+                "url": "assets/images/bowler/bowler-25.png",
+                "type": "image",
+                "key": "bowler-25"
+            },
+            {
+                "url": "assets/images/bowler/bowler-28.png",
+                "type": "image",
+                "key": "bowler-28"
+            },
+            {
+                "url": "assets/images/bowler/bowler-29.png",
+                "type": "image",
+                "key": "bowler-29"
+            },
+            {
+                "url": "assets/images/bowler/bowler-30.png",
+                "type": "image",
+                "key": "bowler-30"
+            },
+            {
+                "url": "assets/images/bowler/bowler-31.png",
+                "type": "image",
+                "key": "bowler-31"
+            },
+            {
+                "url": "assets/images/bowler/bowler-34.png",
+                "type": "image",
+                "key": "bowler-34"
+            },
+            {
+                "url": "assets/images/bowler/bowler-37.png",
+                "type": "image",
+                "key": "bowler-37"
+            },
+            {
+                "url": "assets/images/bowler/bowler-39.png",
+                "type": "image",
+                "key": "bowler-39"
+            },
+            {
+                "url": "assets/images/bowler/bowler-4.png",
+                "type": "image",
+                "key": "bowler-4"
+            },
+            {
+                "url": "assets/images/bowler/bowler-41.png",
+                "type": "image",
+                "key": "bowler-41"
+            },
+            {
+                "url": "assets/images/bowler/bowler-43.png",
+                "type": "image",
+                "key": "bowler-43"
+            },
+            {
+                "url": "assets/images/bowler/bowler-45.png",
+                "type": "image",
+                "key": "bowler-45"
+            },
+            {
+                "url": "assets/images/bowler/bowler-47.png",
+                "type": "image",
+                "key": "bowler-47"
+            },
+            {
+                "url": "assets/images/bowler/bowler-48.png",
+                "type": "image",
+                "key": "bowler-48"
+            },
+            {
+                "url": "assets/images/bowler/bowler-5.png",
+                "type": "image",
+                "key": "bowler-5"
+            },
+            {
+                "url": "assets/images/bowler/bowler-54.png",
+                "type": "image",
+                "key": "bowler-54"
+            },
+            {
+                "url": "assets/images/bowler/bowler-55.png",
+                "type": "image",
+                "key": "bowler-55"
+            },
+            {
+                "url": "assets/images/btnPlayAgain.png",
+                "type": "image",
+                "key": "btnPlayAgain"
+            },
+            {
+                "url": "assets/images/field.jpg",
+                "type": "image",
+                "key": "field"
+            },
+            {
+                "url": "src/scenes/Field.js",
+                "type": "sceneFile",
+                "key": "Field"
+            },
+            {
+                "url": "assets/images/fielder.png",
+                "type": "image",
+                "key": "fielder"
+            },
+            {
+                "url": "src/animations/fielderAnimation.json",
+                "type": "animation",
+                "key": "fielderAnimation"
+            },
+            {
+                "url": "src/scripts/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": "src/scenes/Ground.js",
+                "type": "sceneFile",
+                "key": "Ground"
+            },
+            {
+                "url": "assets/images/keeper/keeper-1.png",
+                "type": "image",
+                "key": "keeper-1"
+            },
+            {
+                "url": "assets/images/keeper/keeper-2.png",
+                "type": "image",
+                "key": "keeper-2"
+            },
+            {
+                "url": "assets/images/pitch.jpg",
+                "type": "image",
+                "key": "pitch"
+            },
+            {
+                "url": "assets/images/player.png",
+                "frameConfig": {
+                    "frameWidth": 122,
+                    "frameHeight": 185,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "player"
+            },
+            {
+                "url": "assets/images/player1.png",
+                "frameConfig": {
+                    "frameWidth": 155,
+                    "frameHeight": 190,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "player1"
+            },
+            {
+                "url": "assets/images/player3.png",
+                "frameConfig": {
+                    "frameWidth": 145,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "player3"
+            },
+            {
+                "url": "src/animations/playerAnimation.json",
+                "type": "animation",
+                "key": "playerAnimation"
+            },
+            {
+                "url": "assets/images/pop-up.png",
+                "type": "image",
+                "key": "pop-up"
+            },
+            {
+                "url": "assets/images/stadium.png",
+                "type": "image",
+                "key": "stadium"
+            },
+            {
+                "url": "assets/images/stump.png",
+                "type": "image",
+                "key": "stump"
+            },
+            {
+                "url": "assets/images/umpire-inital.png",
+                "frameConfig": {
+                    "frameWidth": 74,
+                    "frameHeight": 230,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "umpire-inital"
+            },
+            {
+                "url": "assets/images/umpire-out.png",
+                "frameConfig": {
+                    "frameWidth": 89,
+                    "frameHeight": 284,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "umpire-out"
+            },
+            {
+                "url": "assets/images/umpire-wide.png",
+                "frameConfig": {
+                    "frameWidth": 229,
+                    "frameHeight": 230,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "umpire-wide"
+            },
+            {
+                "url": "assets/images/wicketKeeper.png",
+                "type": "image",
+                "key": "wicketKeeper"
+            },
+            {
+                "url": "assets/images/yudiz-logo.png",
+                "type": "image",
+                "key": "yudiz-logo"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

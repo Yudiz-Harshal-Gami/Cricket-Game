@@ -1,0 +1,51 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <title>Cricket - Yudiz</title>
+
+    <script src="lib/phaser.min.js"></script>
+    <script src="src/components/UserComponent.js"></script>
+    <script src="src/components/PushOnClick.js"></script>
+    <script src="src/components/PreloadText.js"></script>
+    <script src="src/scenes/Preload.js"></script>
+    <script src="src/scenes/Level.js"></script>
+    <script src="src/main.js"></script>
+
+    <style>
+      body {
+        background: #000000;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+
+  <body>
+    <script>
+      let selectedOvers = Math.round(parseFloat(prompt("Please enter overs") + ".0"));
+      if (selectedOvers < 1) {
+        selectedOvers = 1.0;
+      }
+      var game;
+      var nWickets = 0;
+      var sCurrentOverRuns = "";
+      var isNewGame = true;
+      var nScore = 0;
+      var nBallRun = 0;
+      var nTotalOvers = selectedOvers || 5.0;
+      var nCurrentOvers = 0;
+      var nTotalBallsLeft = nTotalOvers * 6;
+      var nTarget = (() => {
+        let x = Math.ceil(
+          Math.random() * (nTotalOvers * 10 + 10 - nTotalOvers * 10)
+        );
+        return x + nTotalOvers * 10;
+      })();
+      var nRunsLeft = nTarget;
+    </script>
+  </body>
+</html>

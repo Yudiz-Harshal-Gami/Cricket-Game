@@ -1,0 +1,253 @@
+{
+    "id": "77d8cd60-0f3a-44d4-948d-a2799e3c3431",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Field",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "16d0b2f6-ba17-484a-9f89-92f6dc4adce7",
+            "label": "body",
+            "components": [],
+            "x": 960,
+            "y": 540,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "ff6637c8-1390-4a08-9c31-3725e54e893b",
+                    "label": "field",
+                    "components": [],
+                    "texture": {
+                        "key": "field"
+                    },
+                    "x": -13,
+                    "scaleX": 1.33,
+                    "scaleY": 1.05
+                },
+                {
+                    "type": "Text",
+                    "id": "23d78fbe-cae4-423b-a232-475f0a8d3f53",
+                    "label": "txtScore",
+                    "scope": "CLASS",
+                    "components": [],
+                    "y": -92,
+                    "scaleX": 0,
+                    "scaleY": 0,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "visible": false,
+                    "text": "6",
+                    "align": "center",
+                    "fontFamily": "Verdana",
+                    "fontSize": "200px",
+                    "fontStyle": "bold",
+                    "color": "#ffffff",
+                    "stroke": "#000",
+                    "strokeThickness": 3,
+                    "backgroundColor": "",
+                    "shadow.offsetX": 5,
+                    "shadow.offsetY": 5,
+                    "shadow.stroke": true,
+                    "shadow.fill": true,
+                    "shadow.color": "#2f2f2f",
+                    "shadow.blur": 5
+                },
+                {
+                    "type": "Image",
+                    "id": "234346d9-35ba-4a3a-97bd-16a7ccaa5a30",
+                    "label": "yudiz_logo",
+                    "components": [],
+                    "texture": {
+                        "key": "yudiz-logo"
+                    },
+                    "x": 749,
+                    "y": -455,
+                    "scaleX": 0.5,
+                    "scaleY": 0.5
+                }
+            ]
+        },
+        {
+            "type": "Image",
+            "id": "0c58cbb9-54e9-45ff-b0f3-0ca6f5c663b6",
+            "label": "wicketKeeper",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "wicketKeeper"
+            },
+            "x": 961.7373681582562,
+            "y": 321.3515268676617,
+            "scaleX": 0.55,
+            "scaleY": 0.55,
+            "originX": 0.5686706767035493,
+            "originY": 0.4362155060618912
+        },
+        {
+            "type": "Image",
+            "id": "2598d607-faa0-4fb9-a94f-f5510f600f34",
+            "label": "ball",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "ball"
+            },
+            "x": 1291,
+            "y": 749,
+            "scaleX": 0.25,
+            "scaleY": 0.25
+        },
+        {
+            "type": "Sprite",
+            "id": "8a32fed1-40ad-4649-b5d5-f40d3048037a",
+            "label": "fielderRightBottom",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "fielder"
+            },
+            "x": 1340,
+            "y": 790,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "type": "Sprite",
+            "id": "3dbc0382-17c1-4f03-b3b9-a4543b36eff6",
+            "label": "fielderRightMid",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "fielder"
+            },
+            "x": 1590,
+            "y": 490,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "type": "Sprite",
+            "id": "12876c6e-7702-409d-98b8-78c19116e69e",
+            "label": "fielderRightTop",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "fielder"
+            },
+            "x": 1340,
+            "y": 290,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "type": "Sprite",
+            "id": "ae40f2c0-00b0-4bd9-a1d4-5c5f07e8cb84",
+            "label": "fielderLeftBottom",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "fielder"
+            },
+            "x": 580,
+            "y": 790,
+            "scaleX": 2,
+            "scaleY": 2,
+            "flipX": true
+        },
+        {
+            "type": "Sprite",
+            "id": "00958253-8073-4a5b-a329-480dd255e1ad",
+            "label": "fielderLeftMid",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "fielder"
+            },
+            "x": 669,
+            "y": 490,
+            "scaleX": 2,
+            "scaleY": 2,
+            "flipX": true
+        },
+        {
+            "type": "Sprite",
+            "id": "2f602011-68ea-42c5-b51f-f9804cbc42df",
+            "label": "fielderLeftTop",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "fielder"
+            },
+            "x": 580,
+            "y": 290,
+            "scaleX": 2,
+            "scaleY": 2,
+            "flipX": true
+        },
+        {
+            "type": "Container",
+            "id": "22cdf1b7-1b14-437c-a33a-3340d7888e2b",
+            "label": "stumps_batsman",
+            "components": [],
+            "x": 960,
+            "y": 383,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "f76d51b2-15b9-4531-b980-ed427e671a3d",
+                    "label": "stump_2",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "stump"
+                    },
+                    "x": 12,
+                    "scaleX": 0.5,
+                    "scaleY": 0.55,
+                    "originY": 1
+                },
+                {
+                    "type": "Image",
+                    "id": "97197df8-b32d-41ad-a187-65dc068a7053",
+                    "label": "stump_1",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "stump"
+                    },
+                    "scaleX": 0.5,
+                    "scaleY": 0.55,
+                    "originY": 1
+                },
+                {
+                    "type": "Image",
+                    "id": "c8c73285-f8dc-4176-9588-6c6c078ac5e8",
+                    "label": "stump_0",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "stump"
+                    },
+                    "x": -12,
+                    "scaleX": 0.5,
+                    "scaleY": 0.55,
+                    "originY": 1
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
